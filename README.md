@@ -1,6 +1,6 @@
 🗿 `Huh, A professional VIM user` 🗿
 
-![Cool Vim Setup](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fneovim%2Fcomments%2F1eh3rnf%2Fmonthly_meme_thread%2F&psig=AOvVaw1XdjnzQGUQUw-AQfc0cUKw&ust=1762929748515000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOj8xZ6_6ZADFQAAAAAdAAAAABAE)
+![Cool Vim Setup](https://i.redd.it/someimagehash.png)
 
 # Neovim + lazy.nvim Setup
 
