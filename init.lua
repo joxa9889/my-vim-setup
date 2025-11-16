@@ -22,4 +22,7 @@ require("lazy").setup({
 	{ import = "plugins.autocompletion" },
 	{ import = "plugins.nano-ls" },
 	{ import = "plugins.gitsigns" },
+	{ import = "plugins.alpha" },
+	{ import = "plugins.indent-blackline" },
+	{ import = "plugins.misc" },
 })
